@@ -12,9 +12,3 @@ Stock prices are influenced by many factors and are inherently **time-series dat
 - The **target variable** is the next day’s closing price.
 - We build a **fully connected neural network (MLP)** with multiple hidden layers.
 - The model is trained and evaluated on a **time-series split** (past 80% as training, last 20% as testing) to prevent data leakage.
-
----
-
-## 📂 Dataset
-
-- The dataset should be a CSV file with columns:
