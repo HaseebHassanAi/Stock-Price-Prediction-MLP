@@ -1,0 +1,12 @@
+
+---
+
+## **3️⃣ requirements.txt Content**
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
